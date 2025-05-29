@@ -1,7 +1,7 @@
 
 <!-- Banner SVG animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=36&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Oi%2C+eu+sou+a+Laura+Alessio!;Front-end+%F0%9F%8C%90+com+alma+criativa;UX%2FUI+%E2%9C%A8+experiencial+e+imersiva;Interfaces+como+jornadas+interdimensionais" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=36&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Oi%2C+eu+sou+a+Laura+Alessio!;Front-end+%F0%9F%8C%90+com+alma+criativa;UX%2FUI+%E2%9C%A8+experiencial+e+imersiva;Interfaces+como+jornadas+interdimensionais" alt="Typing SVG" />
 </p>
 
 
